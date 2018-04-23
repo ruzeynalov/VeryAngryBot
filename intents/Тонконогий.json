@@ -1,0 +1,28 @@
+{
+  "id": "3036c272-7cea-4de8-ab43-502a9266168b",
+  "name": "Тонконогий",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Та ну его нах"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524339357,
+  "fallbackIntent": false,
+  "events": []
+}

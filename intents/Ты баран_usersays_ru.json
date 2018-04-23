@@ -1,0 +1,247 @@
+[
+  {
+    "id": "53367288-c2d2-42f8-ab72-c2383dd3063e",
+    "data": [
+      {
+        "text": "Сука",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "92131efb-4f43-467e-9c9f-85fdbf9021d0",
+    "data": [
+      {
+        "text": "ты дебил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "90a328d6-bdee-4f71-ab16-4bfc53dc6013",
+    "data": [
+      {
+        "text": "Дурак",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "3584de09-c3ce-485a-a0c9-c28f7b90e6dc",
+    "data": [
+      {
+        "text": "Лабась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524341867
+  },
+  {
+    "id": "f391b40e-7b34-4d7e-b401-46de69ce87aa",
+    "data": [
+      {
+        "text": "Дурка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524338919
+  },
+  {
+    "id": "d0c03ad6-dd96-4e6b-85f8-7ec58e799411",
+    "data": [
+      {
+        "text": "Чмо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "88a69fe1-8ace-4973-86a0-fef548f2fa7a",
+    "data": [
+      {
+        "text": "ты болван",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57d19636-7040-44ac-a554-e185f16b5f90",
+    "data": [
+      {
+        "text": "патриот?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ab2e73d-9fd8-4e5f-a2ca-d7efa6841f82",
+    "data": [
+      {
+        "text": "Ты патриот?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "5ce05fac-baf5-469a-9bba-77291e3f22aa",
+    "data": [
+      {
+        "text": "Bot ты невоспитанный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c1304093-b71d-44fc-a18e-9828661b770f",
+    "data": [
+      {
+        "text": "безграмотное ты чучело!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2332a5dc-5ec6-4602-84fa-30a5baac8702",
+    "data": [
+      {
+        "text": "Болван",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524338919
+  },
+  {
+    "id": "7a1341da-33ae-4724-a5e0-b287914cb35a",
+    "data": [
+      {
+        "text": "Кретин",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338919
+  },
+  {
+    "id": "ed2ce8c2-a2a7-4140-ac2d-1ba6bab0f133",
+    "data": [
+      {
+        "text": "Сволочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338919
+  },
+  {
+    "id": "c090f806-c0c1-415f-9c0d-42830d08b9b0",
+    "data": [
+      {
+        "text": "Слышить ты офигел",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338919
+  },
+  {
+    "id": "12393e18-8eca-4757-8e66-9904b316db36",
+    "data": [
+      {
+        "text": "Ты ",
+        "userDefined": false
+      },
+      {
+        "text": "лох",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338511
+  },
+  {
+    "id": "bebff5f3-c8ff-4fe8-97ab-ff2a2cfeef69",
+    "data": [
+      {
+        "text": "Ты чмо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338511
+  },
+  {
+    "id": "a78ff55b-397e-42cb-bdaf-80fc61d706d3",
+    "data": [
+      {
+        "text": "Ты козел",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338511
+  },
+  {
+    "id": "13ba93fe-cc01-4e64-a39c-412ee17b18a9",
+    "data": [
+      {
+        "text": "Ты дурак",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338511
+  },
+  {
+    "id": "99ab7e0b-4a84-4280-b870-47ebf44376e8",
+    "data": [
+      {
+        "text": "Ты баран",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338511
+  }
+]

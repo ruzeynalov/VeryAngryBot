@@ -1,0 +1,28 @@
+{
+  "id": "35531b77-b8cb-4235-98a5-bb9bdd53284e",
+  "name": "Что ты умеешь?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "Развлекать таких питекантропов как ты :)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524338543,
+  "fallbackIntent": false,
+  "events": []
+}

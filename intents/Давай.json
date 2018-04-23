@@ -1,0 +1,28 @@
+{
+  "id": "33169c46-c953-4f39-bc91-44984240ad72",
+  "name": "Давай",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": ":)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524425283,
+  "fallbackIntent": false,
+  "events": []
+}

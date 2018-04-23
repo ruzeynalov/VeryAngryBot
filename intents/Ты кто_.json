@@ -1,0 +1,32 @@
+{
+  "id": "bcf64e26-97ba-41d8-b99f-fd3ba8eeae8f",
+  "name": "Ты кто?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Конь в пальто",
+            "Дед пихто",
+            "Бот - убийца твоего времени и интеллекта"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524340854,
+  "fallbackIntent": false,
+  "events": []
+}

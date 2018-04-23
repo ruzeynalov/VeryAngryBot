@@ -1,0 +1,38 @@
+[
+  {
+    "id": "bf61c6ca-cfbe-4635-a0ab-a986d2abfb46",
+    "data": [
+      {
+        "text": "Ты откуда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1524340759
+  },
+  {
+    "id": "9a243c25-40e7-40b5-953a-e07fb74592c1",
+    "data": [
+      {
+        "text": "С какого района",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524340759
+  },
+  {
+    "id": "5e61256b-005f-490e-9f6d-cf66cd3e3c90",
+    "data": [
+      {
+        "text": "Из какого района?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524340759
+  }
+]

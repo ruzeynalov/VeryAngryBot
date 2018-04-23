@@ -1,0 +1,31 @@
+{
+  "id": "6df41b99-b247-4a53-91f1-2b0747fc55fd",
+  "name": "Ты дурак",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Сам такой",
+            "Зеркало далеко? )"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524338836,
+  "fallbackIntent": false,
+  "events": []
+}

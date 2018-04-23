@@ -1,0 +1,26 @@
+[
+  {
+    "id": "869806f1-bc82-4398-9304-7b6655740fe6",
+    "data": [
+      {
+        "text": "а кто такой Васлий?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "932a9251-2f86-463e-b9c6-dd1978e6faae",
+    "data": [
+      {
+        "text": "а кто такой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339861
+  }
+]

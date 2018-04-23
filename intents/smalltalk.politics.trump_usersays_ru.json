@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c0b8f40b-a070-459e-9659-77d0a7666b6a",
+    "data": [
+      {
+        "text": "Как дела у Трампа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1524150604
+  },
+  {
+    "id": "0de56af4-918b-4fae-a8ea-c9200b4e33ee",
+    "data": [
+      {
+        "text": "Как тебе Трамп?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b859e097-641a-48b1-aef6-6cd7079a0f4a",
+    "data": [
+      {
+        "text": "Трампу",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524150604
+  },
+  {
+    "id": "51bc5fee-16ee-4ded-bcd7-d2891130e57c",
+    "data": [
+      {
+        "text": "Трампа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524150604
+  },
+  {
+    "id": "56a30b92-1790-4aff-82a1-51a36b52ec45",
+    "data": [
+      {
+        "text": "Трамп",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524150604
+  }
+]

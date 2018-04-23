@@ -1,0 +1,31 @@
+{
+  "id": "fc229071-7f86-497d-97e8-592f0d4f22da",
+  "name": "шаришь",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Не шарю",
+            "Без руля"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524340672,
+  "fallbackIntent": false,
+  "events": []
+}

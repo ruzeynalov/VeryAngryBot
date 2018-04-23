@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3bdc939a-97b9-4e8a-8254-928e74f6b9a4",
+    "data": [
+      {
+        "text": "С тестированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524340516
+  },
+  {
+    "id": "987649bd-c1a3-45d0-b7c4-0effae1055e3",
+    "data": [
+      {
+        "text": "С программирование",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524340516
+  }
+]

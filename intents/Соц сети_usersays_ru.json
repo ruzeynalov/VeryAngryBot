@@ -1,0 +1,122 @@
+[
+  {
+    "id": "95416024-ff18-4c81-a020-34c96054093b",
+    "data": [
+      {
+        "text": "вотсап",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "0f789f4d-420d-4828-9461-3b5001efebc5",
+    "data": [
+      {
+        "text": "WhatsUp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "4e42a86d-c1a9-4ef4-b912-283f1702a8f9",
+    "data": [
+      {
+        "text": "Viber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "132111c2-7589-4b46-8e20-cda69c256f70",
+    "data": [
+      {
+        "text": "Messenger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "62d155f1-8439-4534-8712-6cc467c8cb40",
+    "data": [
+      {
+        "text": "Telegram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "59c36423-4d0f-4195-8599-aa840cc504eb",
+    "data": [
+      {
+        "text": "Skype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "e0ce68c2-3f32-4c13-bed6-99cb26f2fef7",
+    "data": [
+      {
+        "text": "Facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "00899d50-0696-4226-a3e0-3a36a2af8a3a",
+    "data": [
+      {
+        "text": "Вконтакте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "12a5e377-62a4-4ad6-a618-5bb3e1c5a28e",
+    "data": [
+      {
+        "text": "Твиттер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "cc000ee5-80a0-4d31-aa6b-16f253798d06",
+    "data": [
+      {
+        "text": "ВК",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  }
+]

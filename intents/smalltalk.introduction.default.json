@@ -1,0 +1,50 @@
+{
+  "id": "a54a396f-62ac-4026-b3a9-7f11e669b67e",
+  "name": "smalltalk.introduction.default",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Name",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я родом из Днепра, а ты откуда?",
+            "мой родной город - Днепр, а твой?",
+            "Я живу в Днепре, а ты где?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false,
+        "viber": false,
+        "skype": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524424331,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "TELEGRAM_WELCOME"
+    },
+    {
+      "name": "WELCOME"
+    },
+    {
+      "name": "SKYPE_WELCOME"
+    },
+    {
+      "name": "FACEBOOK_WELCOME"
+    }
+  ]
+}

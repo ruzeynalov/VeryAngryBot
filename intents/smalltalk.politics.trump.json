@@ -1,0 +1,33 @@
+{
+  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
+  "name": "smalltalk.politics.trump",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Твитерозависимый крендель",
+            "Еще не читал его твиттер сегодня",
+            "Заберите у него телефон!",
+            "Он вроде изменил жене со Stormy Daniels"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524338414,
+  "fallbackIntent": false,
+  "events": []
+}

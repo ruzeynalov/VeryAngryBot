@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d34e8ec0-3b09-434b-b738-8fe30d1c72ed",
+    "data": [
+      {
+        "text": "Ты дурак",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 7,
+    "updated": 1524338836
+  },
+  {
+    "id": "1b0e32c2-ed9f-433a-859e-1e7b3e5f832e",
+    "data": [
+      {
+        "text": "наркоман что ли?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "id": "7c5582d7-539f-49f4-96a7-7097e22f077d",
+  "name": "Как тебя зовут",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Злой бот",
+            "Злобный бот"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524341931,
+  "fallbackIntent": false,
+  "events": []
+}

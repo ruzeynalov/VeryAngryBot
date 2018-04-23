@@ -1,0 +1,31 @@
+{
+  "id": "44e035c9-199a-40f6-b71d-e74e42170f5f",
+  "name": "Соц сети",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Задолбали уже ваши соц сети и мессенджеры - выйди на улицы и провертрись",
+            "Соц сетями  и мессенджерами не пользуюсь"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524339815,
+  "fallbackIntent": false,
+  "events": []
+}

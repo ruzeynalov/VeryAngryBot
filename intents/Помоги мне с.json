@@ -1,0 +1,31 @@
+{
+  "id": "ed2607f7-26a3-4a2f-914a-f8206e04442e",
+  "name": "Помоги мне с",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Спасение утопающих - ну короче дальше сам знаешь",
+            "Тебе поможет Тимур и его команда"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524339677,
+  "fallbackIntent": false,
+  "events": []
+}

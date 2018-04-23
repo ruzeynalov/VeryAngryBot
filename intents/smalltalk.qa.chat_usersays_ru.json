@@ -1,0 +1,98 @@
+[
+  {
+    "id": "4db97a5a-6978-467a-8670-f10866cb8c6d",
+    "data": [
+      {
+        "text": "Помоги мне с тестированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f32334b7-4c5f-431f-ab8a-e1f8113de7b2",
+    "data": [
+      {
+        "text": "Кто такой QA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524151928
+  },
+  {
+    "id": "8cc65508-ba14-4bc7-9b04-29ae37e22d7b",
+    "data": [
+      {
+        "text": "QA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524151928
+  },
+  {
+    "id": "b009f7d6-f37a-452a-b81f-be62f9ea0e8f",
+    "data": [
+      {
+        "text": "Automation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524151928
+  },
+  {
+    "id": "3750ab49-3846-4e8f-831c-e0c42ffb014e",
+    "data": [
+      {
+        "text": "QA",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524151928
+  },
+  {
+    "id": "d8783cb5-988b-4884-8e3b-d8e1279f844a",
+    "data": [
+      {
+        "text": "тестирование",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524151928
+  },
+  {
+    "id": "9a0b68f7-4410-4fe0-bebd-aa5a84b8090b",
+    "data": [
+      {
+        "text": "тестировщик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1524151928
+  },
+  {
+    "id": "cac58bf7-d1e0-4886-b8d1-ec5815cd2f65",
+    "data": [
+      {
+        "text": "автоматизация",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524151928
+  }
+]

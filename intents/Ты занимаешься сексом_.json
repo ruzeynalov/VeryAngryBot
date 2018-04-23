@@ -1,0 +1,31 @@
+{
+  "id": "3ce482c2-f73c-44f7-8b85-a94ff83b9e96",
+  "name": "Ты занимаешься сексом?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "С удовольствием",
+            "Только по выходным"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524341511,
+  "fallbackIntent": false,
+  "events": []
+}

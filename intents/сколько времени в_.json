@@ -1,0 +1,31 @@
+{
+  "id": "d250d7e6-28fd-4c59-b4c9-cef2e803a55d",
+  "name": "сколько времени в?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Без руля",
+            "Я что тебя Smart часы блеать?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524340337,
+  "fallbackIntent": false,
+  "events": []
+}

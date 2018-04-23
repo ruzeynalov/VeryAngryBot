@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3fd9ddbf-646a-41e0-9504-513f4cf10150",
+    "data": [
+      {
+        "text": "а Рустама?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "227daaba-9c15-409f-9385-177aae69f0aa",
+    "data": [
+      {
+        "text": "Рустам",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1524338611
+  },
+  {
+    "id": "90f3d8de-bbc7-43cc-b857-6c52906e361c",
+    "data": [
+      {
+        "text": "Кто твой создатель?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

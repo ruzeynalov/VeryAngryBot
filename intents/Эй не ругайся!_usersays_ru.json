@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6acaeb31-f5ba-467d-b9f5-57285cee06cb",
+    "data": [
+      {
+        "text": "Ты чего борзеешь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "3cf86ea3-dea7-402d-8c44-053b5879582b",
+    "data": [
+      {
+        "text": "Стой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e33ac75-5268-46d0-8986-b5a1b8ff900a",
+    "data": [
+      {
+        "text": "Ты чего смеешься?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "26f45a15-f13e-4687-adc0-468c4b4a6ade",
+    "data": [
+      {
+        "text": "не ругайся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524343733
+  },
+  {
+    "id": "334b064d-5888-4032-9967-21eb91003391",
+    "data": [
+      {
+        "text": "Не матерись",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338777
+  },
+  {
+    "id": "e39363de-4f2c-4c9e-b716-d1f5b11616b1",
+    "data": [
+      {
+        "text": "Эй не ругайся!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338777
+  }
+]

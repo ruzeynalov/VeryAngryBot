@@ -1,0 +1,31 @@
+{
+  "id": "3de8ce6e-ebf2-4020-87f4-e409f48d7938",
+  "name": "песня",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Люблю петь хиты Поплавского - давай со мной за компанию?",
+            "Люблю петь Киркорова хиты, давай со мной?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524340158,
+  "fallbackIntent": false,
+  "events": []
+}

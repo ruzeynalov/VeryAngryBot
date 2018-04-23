@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c89ffe17-0e81-4f18-8d54-cd5663b737c2",
+    "data": [
+      {
+        "text": "потеряйся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d1333346-2119-438d-8557-ecdbfd8190a1",
+    "data": [
+      {
+        "text": "отстань",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "215bb009-4a4c-4ce7-a015-07e6ed9ca957",
+    "data": [
+      {
+        "text": "От верблюда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c235cc64-55a5-41e6-99e4-e181e9bbd20a",
+    "data": [
+      {
+        "text": "Прекрати",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "68003ad6-0b2b-4517-a169-eb8f0a21c003",
+    "data": [
+      {
+        "text": "Кстати",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339315
+  }
+]

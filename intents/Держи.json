@@ -1,0 +1,32 @@
+{
+  "id": "8875d16f-1ea8-43eb-8507-715e652b169b",
+  "name": "Держи",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Юху! Давай дружить?",
+            ":)",
+            "Будем дружить?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1524425000,
+  "fallbackIntent": false,
+  "events": []
+}

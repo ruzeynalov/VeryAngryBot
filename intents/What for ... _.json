@@ -1,0 +1,42 @@
+{
+  "id": "b17bc6ea-8bc1-453e-8038-839f441b2134",
+  "name": "What for ... ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "затем",
+            "потому",
+            "чтоб ты спросил, человек",
+            "тебе все нужно знать",
+            "какой ты любопытный",
+            "может тебе еще и пин код сказать?",
+            "надо",
+            "так я решил и всё тут",
+            "этого я не знаю",
+            "надо подумать. А мне влом",
+            "а ты подумай сам",
+            "причину я пока не знаю",
+            "зачем-то, видимо, надо"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526503587,
+  "fallbackIntent": false,
+  "events": []
+}

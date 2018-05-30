@@ -1,0 +1,134 @@
+[
+  {
+    "id": "c4acf30c-118b-41ef-ba0c-a2c12000243d",
+    "data": [
+      {
+        "text": "Нормально",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "8b744c28-103a-4177-aa5a-701cdeba201d",
+    "data": [
+      {
+        "text": "Как у тебя дела ботяра",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "42269a36-a158-47f8-b7c8-a9ef112cb1e4",
+    "data": [
+      {
+        "text": "Что нового?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086644
+  },
+  {
+    "id": "ae91b67b-b614-4756-bca8-87e57ebd1c77",
+    "data": [
+      {
+        "text": "хорошо. А у тебя?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "53ed6515-9104-4e08-840a-fe48e612f3d7",
+    "data": [
+      {
+        "text": "нормально. А у тебя?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "72c1b1be-f03c-4b9d-8a37-eb1bebe7a594",
+    "data": [
+      {
+        "text": "как жизнь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "7aa8f99a-7ffb-47f2-bdcb-d2d3f4cdf3c3",
+    "data": [
+      {
+        "text": "как поживаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "ee0f6d69-dada-405e-b1ea-9518c67c9c09",
+    "data": [
+      {
+        "text": " а у тебя?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  },
+  {
+    "id": "8436699e-8dc5-4cae-9e10-3957b9ef2747",
+    "data": [
+      {
+        "text": "как сам?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086644
+  },
+  {
+    "id": "7067e8e7-6342-4ecf-b99d-7d6c79a530bc",
+    "data": [
+      {
+        "text": "как дела",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086644
+  },
+  {
+    "id": "8e0d036e-2430-4d48-8a05-1fb850526549",
+    "data": [
+      {
+        "text": "как ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086644
+  }
+]

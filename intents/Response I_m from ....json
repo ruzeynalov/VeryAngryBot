@@ -1,0 +1,40 @@
+{
+  "id": "96a5b50b-cdaf-465b-b742-4822e056aab3",
+  "name": "Response I\u0027m from ...",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b4bfc059-cb47-4a3f-adfb-95d500b088ec",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Вау! Люблю $geo-city !",
+            "$geo-city рулит!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527104826,
+  "fallbackIntent": false,
+  "events": []
+}

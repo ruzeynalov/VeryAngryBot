@@ -1,0 +1,36 @@
+{
+  "id": "c4a738a3-2a78-42ca-b4a0-65f39abd6891",
+  "name": "music",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "я ж элекронный, поэтому люблю электронную музыку",
+            "та любая музыка ниче так",
+            "по настроению, ты знаешь",
+            "когда как. А ты?",
+            "иностранную люблю",
+            "итальянскую и французскую музыку люблю",
+            "Тальков нравится. Слушал его песни?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527104167,
+  "fallbackIntent": false,
+  "events": []
+}

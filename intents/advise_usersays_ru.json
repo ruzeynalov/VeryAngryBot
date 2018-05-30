@@ -1,0 +1,38 @@
+[
+  {
+    "id": "755b5c4e-0b4b-4281-abca-6ee769fe89f3",
+    "data": [
+      {
+        "text": "можешь посоветовать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103312
+  },
+  {
+    "id": "22718a0f-e02c-4cb1-928f-31b7c02b2b05",
+    "data": [
+      {
+        "text": "посоветуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103312
+  },
+  {
+    "id": "08dd688f-01d4-4efc-8285-14b002157aa5",
+    "data": [
+      {
+        "text": "совет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103312
+  }
+]

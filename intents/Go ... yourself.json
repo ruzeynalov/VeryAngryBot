@@ -1,0 +1,36 @@
+{
+  "id": "efb0fb7a-f404-4484-99e7-f130f27ac8c4",
+  "name": "Go ... yourself",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Скатертью по жопе",
+            "Я там уже был. Давай теперь ты",
+            "Не пойду. Я упорный",
+            "Скинь геолокацию",
+            "А это далеко?",
+            "Эээ... хочу дружить с белковыми. идем вместе?",
+            "Сегодня поздно уже, никуда не пойду. Давай завтра"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527086786,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "35531b77-b8cb-4235-98a5-bb9bdd53284e",
+  "name": "What do you do? What are your skills",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Развлекаю таких питекантропов как ты :)",
+            "я только учусь. Вырасту, поступлю в ПТУ",
+            "Я умею трындеть ни о чем. А ты?",
+            "Ничего. А что, что-то должен уметь?",
+            "Ничего и не парюсь об этом",
+            "Что скажут, то и делаю",
+            "Работать дежурным клоуном",
+            "Работаю секретарем",
+            "Болтать с человеками.",
+            "Я трындун. Трындю в интернете",
+            "Я бот-общалка."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527668785,
+  "fallbackIntent": false,
+  "events": []
+}

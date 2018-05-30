@@ -1,0 +1,146 @@
+[
+  {
+    "id": "872a0f31-5e15-4f74-bd22-4c41581bd7dc",
+    "data": [
+      {
+        "text": "ты девочка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "2b3d8b51-0287-4e64-b009-1abbd35aaca2",
+    "data": [
+      {
+        "text": "ты парень",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "c84edfc4-1613-45fa-a59f-694420b8870a",
+    "data": [
+      {
+        "text": "мужик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "5ada3a85-79b0-4cc3-8648-97bed5ac06da",
+    "data": [
+      {
+        "text": "ты мальчик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "8d5930e3-6754-4db2-9fbb-afbf8183d3b0",
+    "data": [
+      {
+        "text": "ты парень или девушка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527101398
+  },
+  {
+    "id": "57fe2dfb-0a8f-494c-8a4e-b8f6b3b63a70",
+    "data": [
+      {
+        "text": "какой твой пол",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "93fdca78-c176-4f01-96f6-86a56b937e3f",
+    "data": [
+      {
+        "text": "ты женщина?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "15081bd1-ad88-4136-a31a-b568e7ef6180",
+    "data": [
+      {
+        "text": "пол",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "43c1721e-2f71-4470-8d5b-b83c93c884bb",
+    "data": [
+      {
+        "text": "ты баба?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "cb753e0c-af2e-478d-8c1b-7b297daa1462",
+    "data": [
+      {
+        "text": "ты девушка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "c3ff7ab2-13aa-4f05-beeb-c5ed37d00272",
+    "data": [
+      {
+        "text": "кто ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527101398
+  },
+  {
+    "id": "cf49669a-b9ec-43a8-8741-f89fc98cde26",
+    "data": [
+      {
+        "text": "ты кто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527101398
+  }
+]

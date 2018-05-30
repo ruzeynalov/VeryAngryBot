@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "6683e15d-48a7-4c9d-91ba-cefdcb362b03",
+  "name": "Regexp???",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,11 +12,7 @@
         {
           "type": 0,
           "lang": "ru",
-          "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
-          ]
+          "speech": "что это за цифры?"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -26,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527668939,
   "fallbackIntent": false,
   "events": []
 }

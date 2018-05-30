@@ -1,0 +1,38 @@
+[
+  {
+    "id": "3a7381c4-50d1-4eb8-9de9-5cf30eef586b",
+    "data": [
+      {
+        "text": "тонконогого",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527109620
+  },
+  {
+    "id": "252838f7-623d-435d-ae08-63efd4f835f1",
+    "data": [
+      {
+        "text": "тонконогому",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527109620
+  },
+  {
+    "id": "64e84b1f-d800-4d5e-827b-114ea2174ddc",
+    "data": [
+      {
+        "text": "Тонконогий",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527109620
+  }
+]

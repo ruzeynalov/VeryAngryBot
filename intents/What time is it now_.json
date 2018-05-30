@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "b8112ca8-9cb9-4dfc-991a-d1d16b34e73d",
+  "name": "What time is it now?",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,9 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Посмотри на часы",
+            "У тебя есть телефон, там и глянь",
+            "Я тебя блядь что циферблат часов?"
           ]
         }
       ],
@@ -26,7 +26,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527086386,
   "fallbackIntent": false,
   "events": []
 }

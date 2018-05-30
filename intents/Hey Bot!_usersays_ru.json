@@ -1,0 +1,86 @@
+[
+  {
+    "id": "9304d3d6-72d8-4aa1-b6bf-e3c4de17d611",
+    "data": [
+      {
+        "text": "Эй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "49d974f0-bb04-4390-b1b5-78268522b0c4",
+    "data": [
+      {
+        "text": "Бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1524497723
+  },
+  {
+    "id": "0d3628f6-3641-4f96-a6ae-e6e15511ffd8",
+    "data": [
+      {
+        "text": "Ленивый бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cb4f2dc0-bf0e-46ae-99a7-748b30c489ee",
+    "data": [
+      {
+        "text": "Эй ты",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "df309416-4256-4532-b56a-9c2372e75f55",
+    "data": [
+      {
+        "text": "Пока бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cb5d607-a177-4b3b-9018-517bdddd839a",
+    "data": [
+      {
+        "text": "Злой Бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524497723
+  },
+  {
+    "id": "f854e92c-6e60-4959-93e3-6cd45ea09c89",
+    "data": [
+      {
+        "text": "Очень злой бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524497723
+  }
+]

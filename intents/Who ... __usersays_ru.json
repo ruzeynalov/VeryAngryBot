@@ -1,0 +1,86 @@
+[
+  {
+    "id": "d6fff12d-6b6c-45bd-baf7-f1464768879b",
+    "data": [
+      {
+        "text": "кто видел",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502880
+  },
+  {
+    "id": "5c3f7d5b-9f88-4ca0-a2db-759bb33865cc",
+    "data": [
+      {
+        "text": "кто это сделал",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502880
+  },
+  {
+    "id": "fa135c53-a9c6-4c0c-ae01-285bd61efe9c",
+    "data": [
+      {
+        "text": "кто тебя сделал?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502880
+  },
+  {
+    "id": "177092bf-98f6-4ee6-8956-244c1f869c35",
+    "data": [
+      {
+        "text": "кто такие питекантропы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526502880
+  },
+  {
+    "id": "e12e19b1-499b-4ae2-9d8b-3155a593a30c",
+    "data": [
+      {
+        "text": "кто снял фильм Бегущий по лезвию?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526502880
+  },
+  {
+    "id": "344e97c4-c67b-4c8e-89e3-ea8df6604d52",
+    "data": [
+      {
+        "text": "кто",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526502880
+  },
+  {
+    "id": "de3b415c-2c44-462f-a952-c2d537e0e6b7",
+    "data": [
+      {
+        "text": "Это кто?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526502880
+  }
+]

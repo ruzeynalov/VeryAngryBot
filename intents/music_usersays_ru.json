@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ca9dc304-a2f3-44ca-80a9-d3824eab3884",
+    "data": [
+      {
+        "text": "музыку слушаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104167
+  },
+  {
+    "id": "4f62163a-9e2f-4cf5-9ce9-a5c78809fe12",
+    "data": [
+      {
+        "text": "музыку слушать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104167
+  },
+  {
+    "id": "c4e90b47-576c-4d0d-86e6-b86841f5315f",
+    "data": [
+      {
+        "text": "музыкой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104167
+  },
+  {
+    "id": "93b5c488-6932-4953-b40e-dcaa6b5f8d2a",
+    "data": [
+      {
+        "text": "музыку",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104167
+  },
+  {
+    "id": "bb05b90b-0141-4055-bcdc-a0a1be09ee7b",
+    "data": [
+      {
+        "text": "музыка",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104167
+  }
+]

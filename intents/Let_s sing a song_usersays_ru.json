@@ -1,0 +1,62 @@
+[
+  {
+    "id": "c3b0551c-2aa2-4fb6-b74b-2493f3b66d56",
+    "data": [
+      {
+        "text": "Давай какую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086024
+  },
+  {
+    "id": "246c66b3-d0c1-4734-b060-341238a15adf",
+    "data": [
+      {
+        "text": "какую песню",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 11,
+    "updated": 1527086024
+  },
+  {
+    "id": "bab5e005-03aa-4c88-80ca-8b40a955a357",
+    "data": [
+      {
+        "text": "Какую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "updated": 1527086024
+  },
+  {
+    "id": "f32f7610-d36f-4baf-ae07-efeb25a89d01",
+    "data": [
+      {
+        "text": "песня",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "updated": 1527086024
+  },
+  {
+    "id": "7bb23643-691b-4132-940f-bdfd35480342",
+    "data": [
+      {
+        "text": "Как жизнь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086024
+  }
+]

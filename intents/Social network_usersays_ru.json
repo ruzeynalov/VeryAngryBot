@@ -1,0 +1,122 @@
+[
+  {
+    "id": "ea905d2e-a3cf-4060-9d72-5e0104619ce0",
+    "data": [
+      {
+        "text": "Viber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "83253ddf-a043-4ae4-a37a-c0821c1dc2e6",
+    "data": [
+      {
+        "text": "вотсап",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "fdd63550-024c-4801-9cf7-0bb47efc4bb4",
+    "data": [
+      {
+        "text": "Telegram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "492f17a5-93a3-4c5d-93ff-4914686df2ab",
+    "data": [
+      {
+        "text": "WhatsUp",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "deecb89b-f439-4006-9ecb-c48131fcfa75",
+    "data": [
+      {
+        "text": "Facebook",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "0361d017-5be4-450f-b34e-e00adde46989",
+    "data": [
+      {
+        "text": "Messenger",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "16ad8061-4029-47a8-92d3-f61e3a4ae122",
+    "data": [
+      {
+        "text": "Skype",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "4924f03d-2075-4838-8dc4-6d3d82a3c9df",
+    "data": [
+      {
+        "text": "Вконтакте",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "1222fc90-00f0-487a-8d90-554eb6a360bb",
+    "data": [
+      {
+        "text": "ВК",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  },
+  {
+    "id": "c34ea2bd-facc-4466-adf8-ec0f6f24819b",
+    "data": [
+      {
+        "text": "Твиттер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339815
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "id": "d39ab0f9-0c68-4bfa-86d6-ab2e80215706",
+  "name": "why to work",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Не знаю. Жак Фреско считает, что работать не нужно",
+            "Зачем рабоотать? Едь в Германию, притворись беженцем и бинго! Жизнь удалась!",
+            "ну как зачем.... а эти, как их там... деньги или как их там, где брать?",
+            "И правда, зачем? Согласен, это лишнее",
+            "Можно на все забить",
+            "Ну надо ж откуда-то брать еду",
+            "Можно выбрать занятие по душе. Например, тестировать стейки :)"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526499174,
+  "fallbackIntent": false,
+  "events": []
+}

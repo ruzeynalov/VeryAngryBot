@@ -1,20 +1,22 @@
 {
-  "description": "Allow your app to engage in small talk about a variety of topics.",
+  "description": "Help your users get weather updates related to outdoor activities or see if they\u0027ll need that jacket. Through your app, they can ask if rain is heading their way or if they\u0027ll want those sunglasses after all. This agent covers all weather related requests and includes options for clothing and activity related inquiries.",
   "language": "ru",
-  "shortDescription": "Small talk topics to help make your bot more personable",
-  "examples": "User: Привет!\nUser: Как дела?\nUser: Спасибо!\nUser: Не за что.\nUser: Как поживаешь?\nUser: Мне скучно.\nUser: Я шучу.\nUser: Здорово!\nUser: Кто ты?\nUser: Сколько тебе лет?\nUser: Ты умная.\nUser: У тебя есть хобби?",
+  "shortDescription": "Weather and forecast related conversations",
+  "examples": "User: Какая погода в Москве этим утром?\nUser: А в Лондоне завтра?\n\nUser: В пятницу будет дождь?\nUser: А что насчет субботы?\nUser: Можешь проверить Новосибирск?\n\nUser: Мне нужно надеть пальто?\nUser: Хочу прогуляться, как там погода?\n\nUser: Хочу пойти в поход, на улице тепло?\nUser: А что насчет этих выходных?\n\nUser: На улице сейчас холодно?\nUser: Вечером будет дождь?\n\nUser: Я завтра лечу в Париж, мне нужно брать зонтик?",
+  "linkToDocs": "",
   "activeAssistantAgents": [
     "smalltalk-domain-on",
     "smalltalk-fulfillment-on"
   ],
   "disableInteractionLogs": false,
+  "disableStackdriverLogs": false,
   "googleAssistant": {
     "googleAssistantCompatible": true,
     "project": "small-talk-5a652",
-    "welcomeIntentSignInRequired": true,
+    "welcomeIntentSignInRequired": false,
     "startIntents": [
       {
-        "intentId": "7b11f28e-ad15-4c17-8feb-c87b39cf12c8",
+        "intentId": "a54a396f-62ac-4026-b3a9-7f11e669b67e",
         "signInRequired": true
       }
     ],
@@ -27,10 +29,15 @@
     "voiceType": "MALE_1",
     "capabilities": [],
     "protocolVersion": "V2",
-    "autoPreviewEnabled": true
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
   },
-  "defaultTimezone": "Europe/Kaliningrad",
+  "defaultTimezone": "America/New_York",
   "webhook": {
+    "url": "",
+    "headers": {
+      "": ""
+    },
     "available": false,
     "useForDomains": false,
     "cloudFunctionsEnabled": false,

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "7771b7b9-af32-45c8-9df5-c45e3a4420bf",
+    "data": [
+      {
+        "text": "Кстати",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086366
+  },
+  {
+    "id": "87cea69a-aa32-4583-b1c2-83ebab0113cf",
+    "data": [
+      {
+        "text": "отстань",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086366
+  },
+  {
+    "id": "d00da390-1cb3-45ac-a106-ce749cc74666",
+    "data": [
+      {
+        "text": "Прекрати",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086366
+  },
+  {
+    "id": "22946e67-341a-49a6-95a4-7f081746f25f",
+    "data": [
+      {
+        "text": "ясно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086366
+  },
+  {
+    "id": "60c557f4-9240-46b2-9155-6f2a469f0004",
+    "data": [
+      {
+        "text": "потеряйся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527086366
+  },
+  {
+    "id": "98b97f28-efd3-489a-8224-4cccf600b4fd",
+    "data": [
+      {
+        "text": "От верблюда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527086366
+  }
+]

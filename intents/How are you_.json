@@ -1,0 +1,46 @@
+{
+  "id": "e266bada-5d0c-4977-be54-0b7b209165ec",
+  "name": "How are you?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Все по старому",
+            "Ничего особенного",
+            "Все тлен",
+            "та как обычно",
+            "все отлично",
+            "сегодня замечательно дела",
+            "все шикарно",
+            "та немного задумался",
+            "все хорошо",
+            "ты как американец. Как дела? Хорошо, а у тебя?",
+            "довольно неплохо",
+            "помаленьку",
+            "учусь потихоньку",
+            "лучше всех",
+            "нормально",
+            "сойдет",
+            "терпимо"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527086644,
+  "fallbackIntent": false,
+  "events": []
+}

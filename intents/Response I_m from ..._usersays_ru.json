@@ -1,0 +1,312 @@
+[
+  {
+    "id": "552089ec-9cfd-465b-addb-bbd46a7f8608",
+    "data": [
+      {
+        "text": "Днепропетровск",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1527104826
+  },
+  {
+    "id": "ae1a0680-e78b-48f3-be45-036a9a61fa36",
+    "data": [
+      {
+        "text": "Днепр",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104826
+  },
+  {
+    "id": "fb457f6f-9786-4281-8f60-34d2e04be7a8",
+    "data": [
+      {
+        "text": "Из Днепропетровска",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524425381
+  },
+  {
+    "id": "7d31e940-4931-406e-8805-4e68c9f2ca2b",
+    "data": [
+      {
+        "text": "Откуда",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524427157
+  },
+  {
+    "id": "3b9cd24e-7b53-42f5-a1cf-b56dfbd60e3d",
+    "data": [
+      {
+        "text": "Тоже из ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепра",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  },
+  {
+    "id": "76933744-8142-407e-9da9-f2a3e084c969",
+    "data": [
+      {
+        "text": "Из ",
+        "userDefined": false
+      },
+      {
+        "text": "Киева",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 8,
+    "updated": 0
+  },
+  {
+    "id": "c14fc9d5-8c4d-4adb-a2bc-9e68163a3d79",
+    "data": [
+      {
+        "text": "Из ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепра",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1524425381
+  },
+  {
+    "id": "9cb11741-bbf3-4f94-a0f3-ef6dc204a2a1",
+    "data": [
+      {
+        "text": "В ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепре",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524425381
+  },
+  {
+    "id": "7686fa72-35ed-4cbc-a67c-8de2294562cb",
+    "data": [
+      {
+        "text": "я из ",
+        "userDefined": false
+      },
+      {
+        "text": "Чикаго",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "57e25423-aadf-49fb-9597-992cdb13ccb5",
+    "data": [
+      {
+        "text": "Днепра",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527104826
+  },
+  {
+    "id": "54643728-f31f-4d64-b940-9957b9e7ee63",
+    "data": [
+      {
+        "text": "В Днепре тоже",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524427157
+  },
+  {
+    "id": "0ff3a236-7dcd-4720-b074-6934641ee18f",
+    "data": [
+      {
+        "text": "из ",
+        "userDefined": false
+      },
+      {
+        "text": "Киева",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526501850
+  },
+  {
+    "id": "6e6580e7-36d8-46a1-b2b9-637c4e4c967e",
+    "data": [
+      {
+        "text": "А я из ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепра",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524425381
+  },
+  {
+    "id": "a9e4e50c-c90b-4d28-bb29-085d5675a7cc",
+    "data": [
+      {
+        "text": "я из ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепропетровска",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524425381
+  },
+  {
+    "id": "40bd8f0a-c7fd-4316-b10c-e1d62cc1a54d",
+    "data": [
+      {
+        "text": "Киев",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9e081260-94ce-4476-9c04-8ad10b3f84b2",
+    "data": [
+      {
+        "text": "Я тоже в ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепре",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526501850
+  },
+  {
+    "id": "d15dfae9-1af1-464b-818a-4b0212a89004",
+    "data": [
+      {
+        "text": "Я из ",
+        "userDefined": false
+      },
+      {
+        "text": "Днепра",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "10a6ac68-7685-4e55-ad7f-9dd05ad6755d",
+    "data": [
+      {
+        "text": "Сичеслав",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1524425381
+  },
+  {
+    "id": "c9c1ff40-a52d-43ed-8054-5f104801b036",
+    "data": [
+      {
+        "text": "Кишинев",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d10d7e2e-ed2d-4f43-9363-5d9a622c2689",
+    "data": [
+      {
+        "text": "Тоже Днепр",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524427157
+  }
+]

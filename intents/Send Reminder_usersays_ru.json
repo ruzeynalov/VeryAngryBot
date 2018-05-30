@@ -1,0 +1,62 @@
+[
+  {
+    "id": "7071d353-91b2-42f4-aefe-7e2511565706",
+    "data": [
+      {
+        "text": "Забыл",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526486084
+  },
+  {
+    "id": "0cd363dc-e316-40cd-a4bc-acdf7e2b665e",
+    "data": [
+      {
+        "text": "Сережа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526486084
+  },
+  {
+    "id": "b0e80c41-b5a1-4a0f-a17d-fc8bf87e59d8",
+    "data": [
+      {
+        "text": "Права",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526486084
+  },
+  {
+    "id": "7da95bef-c34d-4284-80a6-06e30688d6c0",
+    "data": [
+      {
+        "text": "Напомни",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526486084
+  },
+  {
+    "id": "33dca629-278d-43be-a384-afe5fc4b1e25",
+    "data": [
+      {
+        "text": "Паспорт",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526486084
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "e3ba140d-b61d-4797-8236-efb7dc900d2f",
+    "data": [
+      {
+        "text": "тьюринг",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527100777
+  },
+  {
+    "id": "e18b79dc-4ee9-4976-a36d-006158af46aa",
+    "data": [
+      {
+        "text": "тест тьюринга",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": true,
+    "count": 0,
+    "updated": 1527100777
+  }
+]

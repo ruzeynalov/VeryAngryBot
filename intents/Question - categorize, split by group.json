@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "a6a45dd0-42c9-427b-b16e-92da7b68a993",
+  "name": "Question - categorize, split by group",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,8 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Я устал уже от вопросов, давай споем песню",
+            "Что ты хочешь от меня"
           ]
         }
       ],
@@ -26,7 +25,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527668891,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cb964e54-6893-4bfc-8cd8-df1c1bb25720",
+    "data": [
+      {
+        "text": "Сколько тебе лет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1526500115
+  },
+  {
+    "id": "d37d66ad-0ea3-43c2-be55-d5b6ac45e197",
+    "data": [
+      {
+        "text": "а сколько ему лет?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500115
+  }
+]

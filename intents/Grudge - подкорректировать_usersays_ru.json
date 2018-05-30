@@ -1,0 +1,98 @@
+[
+  {
+    "id": "73fc94ea-4445-4691-8fe6-f77e138df35a",
+    "data": [
+      {
+        "text": "обиделся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504023
+  },
+  {
+    "id": "17c88176-50c3-49bd-9d4a-947b92b5603c",
+    "data": [
+      {
+        "text": "не разговариваю",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504023
+  },
+  {
+    "id": "3dd722a2-1155-4381-bbe5-f0b69486332e",
+    "data": [
+      {
+        "text": "Не молчи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1526504023
+  },
+  {
+    "id": "685735f2-0c2a-42d1-a4c9-adcfbb035530",
+    "data": [
+      {
+        "text": "не ругайся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526504023
+  },
+  {
+    "id": "7b9cf583-00c3-450b-95e0-8c3d5de7b298",
+    "data": [
+      {
+        "text": "буду молчать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504023
+  },
+  {
+    "id": "b0204872-9d29-4dba-98f2-c8b81aa8076b",
+    "data": [
+      {
+        "text": "Чего молчишь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1526504023
+  },
+  {
+    "id": "851a9a78-1ab0-41b8-9da3-596d7f400738",
+    "data": [
+      {
+        "text": "Не матерись",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1526504023
+  },
+  {
+    "id": "d7f6220d-c099-4f38-a9a2-1a28d2516a5b",
+    "data": [
+      {
+        "text": "обиделась",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504023
+  }
+]

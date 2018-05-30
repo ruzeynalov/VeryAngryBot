@@ -1,0 +1,37 @@
+{
+  "id": "fa0ab915-320b-4eeb-a42f-437017b904b3",
+  "name": "hobby - test",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ef3f48e4-42cd-4a9c-a769-df9a5f178dd1",
+          "required": true,
+          "dataType": "@activity",
+          "name": "activity",
+          "value": "$activity",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": "мне нравится $activity"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527108979,
+  "fallbackIntent": false,
+  "events": []
+}

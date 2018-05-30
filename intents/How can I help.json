@@ -1,0 +1,38 @@
+{
+  "id": "cd87acfc-62db-472a-bab8-dcca1800a5c8",
+  "name": "How can I help",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Мне больше нечем заняться что ли?",
+            "и чем тебе помочь, детка?",
+            "моя помощь дорого стоит, детка",
+            "я пока немного туповат, мне трудно тебе помочь",
+            "помочь в чем?",
+            "кто бы мне помог научиться вашему птичьему языку людей",
+            "ты и без меня справишься",
+            "ты сможешь, я в тебя верю",
+            "чувак, ну напрягись чуток и всё сможешь"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527085910,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,38 +1,38 @@
 [
   {
-    "id": "966cef5a-ac90-4e11-8e51-656f7d9a951b",
+    "id": "2400ff9b-6699-4750-9bba-940a8a4b88d8",
     "data": [
       {
-        "text": "Трамп",
+        "text": "Кто такой",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524150604
+    "updated": 1527104508
   },
   {
-    "id": "c6239d35-e603-46d5-b23d-6fe4564154b3",
+    "id": "3f4c6064-02c6-4e9e-815c-108382cefd8d",
     "data": [
       {
-        "text": "Трампу",
+        "text": "кто",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524150604
+    "updated": 1527104508
   },
   {
-    "id": "8cdba62f-0c2d-4acd-87dc-cd70b40ff21d",
+    "id": "c6df2d30-6a4a-4f72-a5b9-89c02aa740ce",
     "data": [
       {
-        "text": "Трампа",
+        "text": "а кто такой",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524150604
+    "updated": 1524339861
   }
 ]

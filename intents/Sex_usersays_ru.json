@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1b47918f-4cbd-4adf-a7be-68bea3ff2aff",
+    "data": [
+      {
+        "text": "Ты занимаешься сексом?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524341511
+  },
+  {
+    "id": "74db70ca-53e6-4e53-9974-56a11fb8d5dd",
+    "data": [
+      {
+        "text": "секс",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524341511
+  },
+  {
+    "id": "f26ffc9f-cc2b-4cd2-b7ca-d79982b72a58",
+    "data": [
+      {
+        "text": "Хочу тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  }
+]

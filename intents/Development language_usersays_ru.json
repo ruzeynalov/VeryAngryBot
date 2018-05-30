@@ -1,0 +1,26 @@
+[
+  {
+    "id": "cd8722d3-c905-4fb2-84f7-194733b1cda7",
+    "data": [
+      {
+        "text": "\"На чем щас катаешь?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525272175
+  },
+  {
+    "id": "ef911cc3-1e3a-4ff8-9e17-41fb728af027",
+    "data": [
+      {
+        "text": "\"На чем ты написан?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525272175
+  }
+]

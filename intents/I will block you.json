@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "1ecd7e79-d17d-4127-babe-e59fbb8c3c86",
+  "name": "I will block you",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,8 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Заблокируй меня полностью детка",
+            "Давай давай блокируй овощ"
           ]
         }
       ],
@@ -26,7 +25,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527668548,
   "fallbackIntent": false,
   "events": []
 }

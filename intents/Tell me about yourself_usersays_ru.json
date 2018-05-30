@@ -1,0 +1,62 @@
+[
+  {
+    "id": "dac0fd73-e2ca-4b9e-8614-8d7aeabe1cc2",
+    "data": [
+      {
+        "text": "Расскажи нам что нибудь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e83b33e9-eef4-4915-b4d7-0bc98c9bbaed",
+    "data": [
+      {
+        "text": "рассказывай",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0b4a440b-54a2-42a1-a447-02616a23a447",
+    "data": [
+      {
+        "text": "Расскажи о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524340941
+  },
+  {
+    "id": "06759a4e-7fbc-49e8-a9c3-ece0c4c8f392",
+    "data": [
+      {
+        "text": "Расскажи что-то",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504734
+  },
+  {
+    "id": "26ba6827-5414-4ab5-b0a3-b26ff275aeee",
+    "data": [
+      {
+        "text": "о себе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504734
+  }
+]

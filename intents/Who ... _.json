@@ -1,0 +1,43 @@
+{
+  "id": "981af2df-0511-4a0a-91bc-2c07440bba9e",
+  "name": "Who ... ?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Конь в пальто",
+            "Дед Пихто",
+            "я не готов сейчас ответить",
+            "спроси у своего соседа, он должен знать",
+            "прости, именно этого я не знаю",
+            "я не могу тебе этого сказать, прости",
+            "ну кто-то важный",
+            "какой-то умник",
+            "может ты?",
+            "грузчик",
+            "ученый из Узбекистана, я думаю",
+            "домохозяйка",
+            "беларус",
+            "боюсь ошибиться, поэтому отморожусь"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526502880,
+  "fallbackIntent": false,
+  "events": []
+}

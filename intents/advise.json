@@ -1,0 +1,34 @@
+{
+  "id": "3caf4c96-6e46-4d9c-addd-94d9055240e9",
+  "name": "advise",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "я еще слишком юн, чтобы раздавать советы",
+            "ага.. я тебе посоветую, а тебе не понравится, буду крайним. Ну уж нет.",
+            "слушай, я в этом не специалист",
+            "ой, не люблю советы",
+            "страна Советов распалась, парень"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527103312,
+  "fallbackIntent": false,
+  "events": []
+}

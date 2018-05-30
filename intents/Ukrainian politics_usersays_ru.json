@@ -1,0 +1,62 @@
+[
+  {
+    "id": "d2821763-1ce4-4f30-8966-8946a66d0b1f",
+    "data": [
+      {
+        "text": "Порошенко",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339445
+  },
+  {
+    "id": "ed6d7ab0-abb5-45f1-9969-24d0fb3f8161",
+    "data": [
+      {
+        "text": "Ляшко",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339445
+  },
+  {
+    "id": "a4c1b76e-01ad-4445-9f45-f4f819f0b9da",
+    "data": [
+      {
+        "text": "Вакарчук",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339445
+  },
+  {
+    "id": "f0d5e108-5c10-424e-8f70-8d3a20f53ba9",
+    "data": [
+      {
+        "text": "Тимошенко",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339445
+  },
+  {
+    "id": "7ee22ee1-9862-4cba-94f7-a0b39133f372",
+    "data": [
+      {
+        "text": "Савченко",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339445
+  }
+]

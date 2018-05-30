@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "bcef3f84-701b-4f91-9234-8f404bf94530",
+  "name": "Rustam",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -12,11 +12,7 @@
         {
           "type": 0,
           "lang": "ru",
-          "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
-          ]
+          "speech": "Не поминай имя создателя всуе ))"
         }
       ],
       "defaultResponsePlatforms": {},
@@ -26,7 +22,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527085922,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,39 @@
+{
+  "id": "140f38ab-39a5-47b1-a5b8-784967b3db71",
+  "name": "Hey Bot!",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Я к твоим услугам, свет моих очей!",
+            "Я здесь, хозяин!",
+            "Тут! Что нужно?",
+            "я не бот, я личность",
+            "от бота слышу",
+            "сам ты бот"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527086916,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

@@ -1,0 +1,207 @@
+[
+  {
+    "id": "74c76e6e-d048-42fa-837c-3592385dd03f",
+    "data": [
+      {
+        "text": "А как там паспорт поживает?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "04c112b1-74b8-4523-9e91-a05b4f1549b5",
+    "data": [
+      {
+        "text": "Где забирать его?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "36e53994-44b2-4d4e-8fba-decc4852fc40",
+    "data": [
+      {
+        "text": "вебсайт?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527668835
+  },
+  {
+    "id": "3f0e6af1-557b-4e2d-a395-4ea321e24fda",
+    "data": [
+      {
+        "text": "сломался?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527668835
+  },
+  {
+    "id": "d28ac532-ab7c-4a6f-9c66-ff6167814c6c",
+    "data": [
+      {
+        "text": "Что фантастика?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "b0688c7b-d417-42ce-b783-48162b1206f2",
+    "data": [
+      {
+        "text": "шаришь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "e96cd72b-aa7e-4516-8da7-a87ef9fed33f",
+    "data": [
+      {
+        "text": "Отвечай",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527668835
+  },
+  {
+    "id": "276efcd3-7e27-45af-bd2e-226cb612ac47",
+    "data": [
+      {
+        "text": "Понимаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "cbcd4faa-45d5-4982-991b-ddbd8b11a3b4",
+    "data": [
+      {
+        "text": "В смысле?)",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "fc91ae26-77ef-43c4-bdbf-ff3406ac3ee6",
+    "data": [
+      {
+        "text": "а в жизни типа шаришь? )",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1527668835
+  },
+  {
+    "id": "9d2b2c4f-a70d-4cb0-8d63-df91ec38796d",
+    "data": [
+      {
+        "text": "А птицы?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "0a526648-23e1-4548-97d7-9b9fb95cfd80",
+    "data": [
+      {
+        "text": "@Very Angry Bot у тебя сегодня рабочий?",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "4422d061-55a9-416d-87a7-2d86664031b0",
+    "data": [
+      {
+        "text": "Бот ты поумнел?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "fdca4daf-dc58-4fd4-af0f-bc3dd32abaac",
+    "data": [
+      {
+        "text": "знаешь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "47dd9308-ba9d-4a63-bd13-50d65b95f7fd",
+    "data": [
+      {
+        "text": "Выкарапкался?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "47a38e90-30db-40bd-b1e7-b22ad51d0385",
+    "data": [
+      {
+        "text": "Ты смешной",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  },
+  {
+    "id": "4170760b-e017-4efc-af06-e9be813d99fb",
+    "data": [
+      {
+        "text": "в курсе?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527668835
+  }
+]

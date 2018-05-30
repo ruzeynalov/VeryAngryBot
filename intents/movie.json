@@ -1,0 +1,35 @@
+{
+  "id": "151b90a2-cbba-443a-a5c8-7ac20e4721dc",
+  "name": "movie",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "мне нравится фильм \"На игре\"",
+            "Матрица мне понравилась",
+            "Думаю, звездные войны интересные. Но еще не смотрел",
+            "На твоем месте я бы посмотрел Аватар и Матрицу",
+            "Фильмы с Ди Каприо рулят",
+            "\"Викинги\" клевый, если любишь сериалы"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527103939,
+  "fallbackIntent": false,
+  "events": []
+}

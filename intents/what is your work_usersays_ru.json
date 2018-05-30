@@ -1,0 +1,74 @@
+[
+  {
+    "id": "95caa469-9e81-47a6-b893-76c9a6b754a9",
+    "data": [
+      {
+        "text": "кем работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  },
+  {
+    "id": "d7a7518d-0ff9-43ae-b41f-c51886a6d8ec",
+    "data": [
+      {
+        "text": "работы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  },
+  {
+    "id": "3ea3b35d-1277-42c6-a344-725c4e72a7b7",
+    "data": [
+      {
+        "text": "работа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  },
+  {
+    "id": "a34458e8-71f3-4ca5-97ed-0ebfbba159eb",
+    "data": [
+      {
+        "text": "работой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  },
+  {
+    "id": "920404a8-3dd5-41c2-876d-fc8952827957",
+    "data": [
+      {
+        "text": "на работе",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  },
+  {
+    "id": "33b05e15-04a9-4369-a407-ea97b66e1420",
+    "data": [
+      {
+        "text": "кем ты работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526500293
+  }
+]

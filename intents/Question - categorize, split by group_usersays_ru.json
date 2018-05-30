@@ -1,0 +1,62 @@
+[
+  {
+    "id": "5be257dd-07ce-4589-b3a4-6a91185b1257",
+    "data": [
+      {
+        "text": "Хочу чтобы ты поумнел дуралей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "533d3969-d416-497f-a3ef-d68608c538a5",
+    "data": [
+      {
+        "text": "вопрос",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524340068
+  },
+  {
+    "id": "30121ea9-6a1c-4303-8cbd-b61f1e83597c",
+    "data": [
+      {
+        "text": "как зовут?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "12c80f4b-7f96-4249-abec-9674d45d08a3",
+    "data": [
+      {
+        "text": "Хочу спросить",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524340068
+  },
+  {
+    "id": "2b73c160-1573-4d46-a6c0-58ac4d3621b9",
+    "data": [
+      {
+        "text": "Хочу тобы ты сказал почему ты злой",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 0
+  }
+]

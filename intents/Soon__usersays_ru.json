@@ -1,0 +1,26 @@
+[
+  {
+    "id": "6d987969-6dd6-4640-84c4-3b84a439d6cb",
+    "data": [
+      {
+        "text": "Через сколько времени",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527085895
+  },
+  {
+    "id": "47fab704-c23a-4663-a2e3-64e8fbab2639",
+    "data": [
+      {
+        "text": "Скоро?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527085895
+  }
+]

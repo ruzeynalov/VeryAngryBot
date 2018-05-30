@@ -1,0 +1,37 @@
+{
+  "id": "fcbfd97c-43be-4896-802f-df7bb91c3a93",
+  "name": "Why you are laughing at me",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "это я еще спокойный",
+            "а ты мне не тыкай",
+            "что мы все обо мне да обо мне. Давай о бабах",
+            "не скажу",
+            "это секрет",
+            "я такой",
+            "я бот, что хочу, то и делаю",
+            "белковое существо, ты такое любопытное"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527668712,
+  "fallbackIntent": false,
+  "events": []
+}

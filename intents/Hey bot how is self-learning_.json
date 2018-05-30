@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "70586223-a92d-4802-a1de-3d163c88dc92",
+  "name": "Hey bot how is self-learning?",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,8 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Учусь понемного у вас троглодитов",
+            "Век живи, век учись"
           ]
         }
       ],
@@ -26,7 +25,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527086891,
   "fallbackIntent": false,
   "events": []
 }

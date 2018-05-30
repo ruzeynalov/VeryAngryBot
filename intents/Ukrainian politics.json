@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "ad0db1cc-db9f-4495-9714-180869ef6eeb",
+  "name": "Ukrainian politics",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,8 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Я тебе одну скажу - все политики мудаки и козлы. И мне на них пох",
+            "Выборы, выборы - кандидаты пидоры"
           ]
         }
       ],
@@ -26,7 +25,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527085973,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,36 @@
+{
+  "id": "3ce482c2-f73c-44f7-8b85-a94ff83b9e96",
+  "name": "Sex",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "С удовольствием",
+            "Только по выходным",
+            "секс - это как?",
+            "секс - это что? Покажешь?",
+            "хочу увидеть этот ваш секс. Где можно посмотреть?",
+            "А как ним заниматься?",
+            "У меня даже разряд есть по сексу"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527104708,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,134 @@
+[
+  {
+    "id": "56cc1eb4-3a62-40be-97c3-016273d6f9af",
+    "data": [
+      {
+        "text": "Никак",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527084560
+  },
+  {
+    "id": "5ce2034c-3c75-4b93-8214-936f50287894",
+    "data": [
+      {
+        "text": "ясно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 11,
+    "updated": 1526502370
+  },
+  {
+    "id": "d80f9d3f-7fae-4537-9fa3-a92262cffd19",
+    "data": [
+      {
+        "text": "хорошо",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "22c9841f-355d-4bd2-9839-76ab493fa142",
+    "data": [
+      {
+        "text": "окей",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "e3673252-50e8-4b07-a0d1-b0f6a1c8ed23",
+    "data": [
+      {
+        "text": "понял",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "2bb78ed2-8a30-440e-a0f2-533587a8b09c",
+    "data": [
+      {
+        "text": "понятно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "e6771685-4eba-4ffa-ab6d-66c268f62dcc",
+    "data": [
+      {
+        "text": "уговорил",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "e21cc6f6-db9a-4d63-90be-9c742d2fa160",
+    "data": [
+      {
+        "text": "Нормалек",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 13,
+    "updated": 1526502370
+  },
+  {
+    "id": "50d2a2d0-3ddd-4fc7-9f0f-0a98b0c53128",
+    "data": [
+      {
+        "text": "ну ладно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  },
+  {
+    "id": "a3dc1116-264d-4353-98a6-d40fa9b0aa8f",
+    "data": [
+      {
+        "text": "ок",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526502370
+  },
+  {
+    "id": "68d1471b-a7c2-490d-80f4-762c380710d7",
+    "data": [
+      {
+        "text": "ладно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526502370
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "e3d23c60-5066-40aa-9c33-c72c3de79117",
+  "name": "Send Reminder",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "reminder",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c6482646-396a-4150-9055-33abf0480e8b",
+          "required": false,
+          "dataType": "@sys.date-time",
+          "name": "period",
+          "value": "$period",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Сережа тебе пишет искусственный интеллект! Что страшно стало?! )))) возьми $period паспорт а то я до тебя доберусь ))) Твой злобный бот",
+            "Привет эта твой любимый Бот, Сережа - не забудь взять права или паспорт! А то останешься без обеда!"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "skype": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1526486125,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "Reminder"
+    }
+  ]
+}

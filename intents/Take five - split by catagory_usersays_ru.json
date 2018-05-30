@@ -1,0 +1,100 @@
+[
+  {
+    "id": "8f3d8f06-d4be-4176-9998-00d49bfc5bb5",
+    "data": [
+      {
+        "text": "и я",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "d22115df-4bf7-4e0c-8e2d-c13e05765322",
+    "data": [
+      {
+        "text": "Пять",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1524518217
+  },
+  {
+    "id": "c8df1e2f-a2a6-418d-aa25-2bd7007b5283",
+    "data": [
+      {
+        "text": "Лови",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524425000
+  },
+  {
+    "id": "526f4393-df1e-43a2-84e6-7ac93ffd2550",
+    "data": [
+      {
+        "text": "Держи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "updated": 1524425000
+  },
+  {
+    "id": "bf7033c9-ba3a-4ffd-93ab-fe1ef7539668",
+    "data": [
+      {
+        "text": "Норм",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1524425000
+  },
+  {
+    "id": "4c955df4-cc6a-4204-b1d9-060113d35d53",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 4,
+    "updated": 1524518217
+  },
+  {
+    "id": "71c6e7e9-02ab-45f3-a8f3-161186c14255",
+    "data": [
+      {
+        "text": "Дай пять",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "173483ea-135e-4203-8b40-419c8046fda9",
+    "data": [
+      {
+        "text": "На",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

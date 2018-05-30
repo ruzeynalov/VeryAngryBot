@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "efa1f8e3-a563-4366-87a0-361cdf63be27",
+  "name": "Soon?",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,11 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "после дождика в четверг",
+            "уже вот сейчас",
+            "через минутку, буквально",
+            "терпение, дорогой мой друг",
+            "да, уже почти"
           ]
         }
       ],
@@ -26,7 +28,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527085895,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "fb695ff5-9e55-4b98-92c6-b6130a98efab",
+    "data": [
+      {
+        "text": "зачем нужна работа",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526499174
+  },
+  {
+    "id": "81a885ba-493c-47e6-af89-ad859b259b31",
+    "data": [
+      {
+        "text": "зачем работать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526499174
+  },
+  {
+    "id": "f60f3acc-8b65-48ac-83c1-f9658b657d2f",
+    "data": [
+      {
+        "text": "почему люди работают",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526499174
+  },
+  {
+    "id": "784a4cce-9180-49fa-9586-ae3890526d54",
+    "data": [
+      {
+        "text": "зачем нужно работать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526499174
+  }
+]

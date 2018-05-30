@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "73989a29-8629-4ace-8257-2bd445d47159",
+  "name": "Who is",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,13 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            "Хер его знает",
+            "Мне то откуда знать",
+            "кто-кто. Дед Пихто",
+            "Я не знаю, честно",
+            "Мне все равно, прости",
+            "кто-то важный",
+            "Миклуха Маклай"
           ]
         }
       ],
@@ -26,7 +30,7 @@
   "priority": 500000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527104508,
   "fallbackIntent": false,
   "events": []
 }

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "72ca344e-1149-455b-b357-0c68d0563361",
+    "data": [
+      {
+        "text": "Мне грустно",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "826bf104-cec6-459e-8021-3f1d3d998838",
+    "data": [
+      {
+        "text": "Помоги мне с тестированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339677
+  },
+  {
+    "id": "1c612e24-547a-4af0-a16a-4d9a80b229b3",
+    "data": [
+      {
+        "text": "Помоги мне с",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339677
+  },
+  {
+    "id": "f811e836-5682-4ccf-93cf-181084ef8ba9",
+    "data": [
+      {
+        "text": "Помоги мне с программированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339677
+  },
+  {
+    "id": "d61657c0-f776-46fc-90e1-cf04312b8569",
+    "data": [
+      {
+        "text": "а сколько ему ",
+        "userDefined": false
+      },
+      {
+        "text": "лет",
+        "alias": "date",
+        "meta": "@sys.date",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4af459b9-19af-495e-b008-4c291a370980",
+    "data": [
+      {
+        "text": "программирование",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "42eb5ae9-6542-4149-bb8d-a4848f96f057",
+    "data": [
+      {
+        "text": "отвечай мне бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

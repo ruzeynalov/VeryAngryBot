@@ -1,0 +1,26 @@
+[
+  {
+    "id": "32a3bc0b-c10c-400a-b77b-8882c189fbea",
+    "data": [
+      {
+        "text": "Ты чего борзеешь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504009
+  },
+  {
+    "id": "640124ae-6db3-4c1b-932a-d1ca4a78700f",
+    "data": [
+      {
+        "text": "Ты чего смеешься?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526504009
+  }
+]

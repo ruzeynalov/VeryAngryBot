@@ -1,0 +1,110 @@
+[
+  {
+    "id": "2016b77f-03b2-4132-834e-3cf10a20d1bb",
+    "data": [
+      {
+        "text": "помощь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526507421
+  },
+  {
+    "id": "437825aa-3c38-419e-83d3-6963dfca4263",
+    "data": [
+      {
+        "text": "С программированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "5671a6f2-5344-4ec0-af8b-68a691cef8d5",
+    "data": [
+      {
+        "text": "подскажи",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "a86e4126-fc03-4e26-82e0-57f44548d37a",
+    "data": [
+      {
+        "text": "помогать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "f2685439-8acb-4b9f-842c-209025267e9a",
+    "data": [
+      {
+        "text": "Помоги",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "6e1f7969-e4c1-42c7-8b85-fbc18ea3831a",
+    "data": [
+      {
+        "text": "поможешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "b9afd436-c60e-4b20-83a8-85a915c2fd18",
+    "data": [
+      {
+        "text": "помочь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  },
+  {
+    "id": "695c11ee-2494-4ea8-a83f-c8b2a68dfc19",
+    "data": [
+      {
+        "text": "С тестированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526507421
+  },
+  {
+    "id": "c7945bd3-a786-435d-b463-67d2692687c0",
+    "data": [
+      {
+        "text": "подсказать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526507421
+  }
+]

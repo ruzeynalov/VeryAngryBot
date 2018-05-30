@@ -1,0 +1,26 @@
+[
+  {
+    "id": "83398edc-360a-4730-af79-a2dd88380eea",
+    "data": [
+      {
+        "text": "который час",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 1524339919
+  },
+  {
+    "id": "3d52f7c4-f69d-4477-bd1f-9d1b68281c86",
+    "data": [
+      {
+        "text": "Сколько время",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524339919
+  }
+]

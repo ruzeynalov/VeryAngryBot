@@ -1,0 +1,26 @@
+[
+  {
+    "id": "73aa7204-a181-45bb-82fc-29b4187b9650",
+    "data": [
+      {
+        "text": "зачем",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526503587
+  },
+  {
+    "id": "3fb7d75f-6a64-41c2-ba0c-e75b9696bd8b",
+    "data": [
+      {
+        "text": "почему",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526503587
+  }
+]

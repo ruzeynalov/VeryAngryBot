@@ -1,0 +1,40 @@
+{
+  "id": "cb81f9ae-497f-44bc-b06b-ff4fee118d08",
+  "name": "Funny guy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "ага я еще тот Петросян )",
+            "люблю юмор",
+            "я такой",
+            "вот такой я молодец",
+            "да, бывает, я отжигаю не по-детски",
+            "иногда как ляпну что-то",
+            "ржуНиМагу",
+            ":))))",
+            "улыбка продлевает жизззь",
+            "ну посмеялись чуток и за работу",
+            "сам хихикнул только-что"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527668866,
+  "fallbackIntent": false,
+  "events": []
+}

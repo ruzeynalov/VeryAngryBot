@@ -1,0 +1,50 @@
+[
+  {
+    "id": "4243b0c7-9c24-4d6d-a5e3-0b24a73618fa",
+    "data": [
+      {
+        "text": "кем ты работаешь",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526505579
+  },
+  {
+    "id": "1e6fd4c5-beed-453d-a085-448a53e7f69e",
+    "data": [
+      {
+        "text": "что ты умеешь делать?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526505579
+  },
+  {
+    "id": "3c1514c6-48a1-4237-a807-3d29e1e704d4",
+    "data": [
+      {
+        "text": "Что ты умеешь?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 6,
+    "updated": 1526505579
+  },
+  {
+    "id": "68d901d7-3a9d-4701-ae32-b7430bf8e711",
+    "data": [
+      {
+        "text": "какие твои навыки",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526505579
+  }
+]

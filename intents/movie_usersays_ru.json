@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1669e578-f24d-48bb-afe3-1a65be539a47",
+    "data": [
+      {
+        "text": "любимое кино",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103939
+  },
+  {
+    "id": "4a231b98-c074-4a14-979b-b772520550a2",
+    "data": [
+      {
+        "text": "фильм",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103513
+  },
+  {
+    "id": "125a5694-b65f-450a-8ce6-17be4766ff32",
+    "data": [
+      {
+        "text": "фильмы",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103513
+  },
+  {
+    "id": "779a0a97-d52f-45fc-9596-cb0995a620e9",
+    "data": [
+      {
+        "text": "кино",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103513
+  },
+  {
+    "id": "76d0f824-c56d-48db-aaab-28b6403c9998",
+    "data": [
+      {
+        "text": "какой фильм",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527103513
+  }
+]

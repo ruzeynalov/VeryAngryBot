@@ -1,0 +1,36 @@
+{
+  "id": "44e035c9-199a-40f6-b71d-e74e42170f5f",
+  "name": "Social network",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Задолбали уже ваши соц сети и мессенджеры - выйди на улицы и проветрись",
+            "Соц сетями  и мессенджерами не пользуюсь",
+            "я не зареган. Не хочу, чтобы за мной следили",
+            "у меня нет аккаунта в соцсетях, так и знай",
+            "я не готов выставлять свою жизнь в соцсетях",
+            "я предпочитаю приватность",
+            "Сноуден сказал, соцсети - это зло"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527087056,
+  "fallbackIntent": false,
+  "events": []
+}

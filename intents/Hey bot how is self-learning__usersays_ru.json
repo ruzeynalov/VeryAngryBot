@@ -1,0 +1,62 @@
+[
+  {
+    "id": "effeedbb-fdde-4e2e-b064-d3186bc70130",
+    "data": [
+      {
+        "text": "учеба",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338365
+  },
+  {
+    "id": "acbe120e-17de-44bb-8876-add934fbab23",
+    "data": [
+      {
+        "text": "обучение",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1524338365
+  },
+  {
+    "id": "567f9ab0-b423-4012-b579-737a12694309",
+    "data": [
+      {
+        "text": "Бот как там твое обучение?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338365
+  },
+  {
+    "id": "96b18d77-27ea-4582-9e61-b3895bfa540a",
+    "data": [
+      {
+        "text": "Бот учишься?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338647
+  },
+  {
+    "id": "856509e1-10c6-46e1-89ec-4abbac04899d",
+    "data": [
+      {
+        "text": "Учишься",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1524338365
+  }
+]

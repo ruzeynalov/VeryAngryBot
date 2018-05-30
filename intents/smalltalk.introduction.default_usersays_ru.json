@@ -1,18 +1,6 @@
 [
   {
-    "id": "ae8b07b2-13cb-4d96-9c2d-79c10e0f0d08",
-    "data": [
-      {
-        "text": "Нормалек",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 6,
-    "updated": 0
-  },
-  {
-    "id": "ed7c4e09-5a8d-4041-b29d-59afc1928ac6",
+    "id": "40814284-6883-44da-9519-bbfa331c5a64",
     "data": [
       {
         "text": "Привет!",
@@ -20,11 +8,35 @@
       }
     ],
     "isTemplate": false,
-    "count": 4,
-    "updated": 1524424331
+    "count": 10,
+    "updated": 1527105150
   },
   {
-    "id": "299b4148-a2be-45c2-b767-0674d14f3326",
+    "id": "af1e22b7-c726-4749-91e5-46a4b243948f",
+    "data": [
+      {
+        "text": "Привет бот",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "1cef5adf-415d-4dd7-ac5e-5f66c9d7966f",
+    "data": [
+      {
+        "text": "Бот привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "9c6f471f-e7c4-4f9b-828e-c9e96784a772",
     "data": [
       {
         "text": "Тук тук",
@@ -32,23 +44,35 @@
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 1524424331
+    "count": 3,
+    "updated": 1527105150
   },
   {
-    "id": "dce82d8d-c9e3-4f3c-a176-3417da5b8ad4",
+    "id": "0493ef7f-a642-4eed-b55e-650fc1548e6e",
     "data": [
       {
-        "text": "Приветствую",
+        "text": "Алоха",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524424331
+    "updated": 1527105150
   },
   {
-    "id": "33c8cfb1-16c5-4e2d-8fe9-0ef4c0d0dbd8",
+    "id": "b4c65171-e1ff-4468-b0a4-54158e5c4176",
+    "data": [
+      {
+        "text": "Здравствуй",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "fa921797-ba80-4b3a-8be4-aebb665d3a9e",
     "data": [
       {
         "text": "ночь",
@@ -58,10 +82,58 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524424331
+    "updated": 1527105150
   },
   {
-    "id": "a6890e3a-ba96-44b9-bb3e-345e3aea941c",
+    "id": "f01a2704-b695-480d-a09d-f902595b0c21",
+    "data": [
+      {
+        "text": "Приветики",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "7f48b423-d5fc-4b6e-a8fc-6652775521ac",
+    "data": [
+      {
+        "text": "Всем привет",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "35e7fd08-2227-43ac-b7a2-93e15a9d9e9a",
+    "data": [
+      {
+        "text": "Але",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "c814dce1-8ddd-4f1b-a3e2-4cdc14a16d02",
+    "data": [
+      {
+        "text": "Приветствую",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527105150
+  },
+  {
+    "id": "0e2950c9-7f3e-4e5c-8e4f-ce84bdd6cf3d",
     "data": [
       {
         "text": "день",
@@ -71,54 +143,18 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524424331
+    "updated": 1527105150
   },
   {
-    "id": "51ae4fd1-5a6d-4b75-bd09-a7aab2a22206",
+    "id": "4dec3c4d-44d2-4657-83fb-96b8d3602164",
     "data": [
       {
-        "text": "Приветики",
+        "text": "Нормалек",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 0,
-    "updated": 1524424331
-  },
-  {
-    "id": "8b2009bf-27bd-4dd2-95aa-da06d53c2493",
-    "data": [
-      {
-        "text": "Алоха",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524424331
-  },
-  {
-    "id": "16c40e96-8447-4998-b662-2d49e487ab8d",
-    "data": [
-      {
-        "text": "Але",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524424331
-  },
-  {
-    "id": "6e0b76bc-b2a5-4eed-8980-e7eed8ef6d4a",
-    "data": [
-      {
-        "text": "Здравствуй",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524424331
+    "count": 6,
+    "updated": 1527105150
   }
 ]

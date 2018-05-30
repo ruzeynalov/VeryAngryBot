@@ -1,6 +1,6 @@
 {
-  "id": "c95e5a6f-5207-4c95-a5e4-19d79f2c6702",
-  "name": "smalltalk.politics.trump",
+  "id": "33169c46-c953-4f39-bc91-44984240ad72",
+  "name": "Fine, ok",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -13,9 +13,13 @@
           "type": 0,
           "lang": "ru",
           "speech": [
-            "Твитерозависимый крендель",
-            "Еще не читал его твиттер сегодня",
-            "Заберите у него телефон!"
+            ":)",
+            "мне с Вами все понятно, сударь",
+            "ну и чудненько",
+            "вот и поговорили",
+            "точно?",
+            "я тебя понял",
+            "вот и замечательно"
           ]
         }
       ],
@@ -23,10 +27,10 @@
       "speech": []
     }
   ],
-  "priority": 500000,
+  "priority": 250000,
   "webhookUsed": false,
   "webhookForSlotFilling": false,
-  "lastUpdate": 1525271155,
+  "lastUpdate": 1527084560,
   "fallbackIntent": false,
   "events": []
 }

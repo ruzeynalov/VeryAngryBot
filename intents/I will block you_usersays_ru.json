@@ -1,0 +1,74 @@
+[
+  {
+    "id": "3e882f74-cf26-4659-a924-6c6e3e5b6a23",
+    "data": [
+      {
+        "text": "Сам ты нудный",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "2c1997fa-add7-4306-9271-d44e1fc143e6",
+    "data": [
+      {
+        "text": "Зачем мне тебя блокировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfcb0038-4c3a-46d6-819d-70f5fd0dc793",
+    "data": [
+      {
+        "text": "Блокировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1525270706
+  },
+  {
+    "id": "8a70ad62-a4b2-4985-a515-b4dda4f6b448",
+    "data": [
+      {
+        "text": "лучше бы тебя заблокировать",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 9,
+    "updated": 1525270706
+  },
+  {
+    "id": "4d74215e-184f-4635-973d-1e39a578da2a",
+    "data": [
+      {
+        "text": "заблокирую тебя",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "9813deaf-6b23-4b4f-9623-8f31c92b5938",
+    "data": [
+      {
+        "text": "Сам успокойся",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

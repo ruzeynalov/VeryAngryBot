@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b81c510c-7c7e-4a6a-98b9-38ae30989310",
+    "data": [
+      {
+        "text": "увлечения",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527108979
+  },
+  {
+    "id": "4732ddca-ce0b-44dd-a40a-ae1ee6dbc1de",
+    "data": [
+      {
+        "text": "твое хобби",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527108979
+  }
+]

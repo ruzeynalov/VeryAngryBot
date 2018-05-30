@@ -1,0 +1,40 @@
+{
+  "id": "ed2607f7-26a3-4a2f-914a-f8206e04442e",
+  "name": "Help me with",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "edeb7182-b18f-40fd-99a9-74a3708ece9b",
+          "required": false,
+          "dataType": "@sys.date",
+          "name": "date",
+          "value": "$date",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ru",
+          "speech": [
+            "Спасение утопающих - ну короче дальше сам знаешь",
+            "Тебе поможет Тимур и его команда"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1527085950,
+  "fallbackIntent": false,
+  "events": []
+}

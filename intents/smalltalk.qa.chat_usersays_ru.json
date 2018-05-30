@@ -1,54 +1,18 @@
 [
   {
-    "id": "4db97a5a-6978-467a-8670-f10866cb8c6d",
+    "id": "ec7dee46-5f5d-41cd-81f3-10f9f911d775",
     "data": [
       {
-        "text": "Помоги мне с тестированием",
+        "text": "айтишник",
         "userDefined": false
       }
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 0
+    "updated": 1526498175
   },
   {
-    "id": "f32334b7-4c5f-431f-ab8a-e1f8113de7b2",
-    "data": [
-      {
-        "text": "Кто такой QA?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524151928
-  },
-  {
-    "id": "8cc65508-ba14-4bc7-9b04-29ae37e22d7b",
-    "data": [
-      {
-        "text": "QA?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524151928
-  },
-  {
-    "id": "b009f7d6-f37a-452a-b81f-be62f9ea0e8f",
-    "data": [
-      {
-        "text": "Automation",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 1524151928
-  },
-  {
-    "id": "3750ab49-3846-4e8f-831c-e0c42ffb014e",
+    "id": "5fa638a0-769a-4f7c-8ec6-2e5b719b71df",
     "data": [
       {
         "text": "QA",
@@ -57,34 +21,58 @@
     ],
     "isTemplate": false,
     "count": 0,
-    "updated": 1524151928
+    "updated": 1526498175
   },
   {
-    "id": "d8783cb5-988b-4884-8e3b-d8e1279f844a",
+    "id": "79fbf687-78fb-4879-a307-70ceb7c5ae9d",
     "data": [
       {
-        "text": "тестирование",
+        "text": "программиста",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 1,
-    "updated": 1524151928
+    "count": 0,
+    "updated": 1526498175
   },
   {
-    "id": "9a0b68f7-4410-4fe0-bebd-aa5a84b8090b",
+    "id": "b6b99967-c24f-4125-bb64-5fd9e517ba43",
     "data": [
       {
-        "text": "тестировщик",
+        "text": "программист",
         "userDefined": false
       }
     ],
     "isTemplate": false,
-    "count": 2,
-    "updated": 1524151928
+    "count": 0,
+    "updated": 1526498175
   },
   {
-    "id": "cac58bf7-d1e0-4886-b8d1-ec5815cd2f65",
+    "id": "fd65707b-3ded-4e82-99bd-c104478d2065",
+    "data": [
+      {
+        "text": "программисту",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "925c1e55-4132-4251-be2d-e4938e9c3db0",
+    "data": [
+      {
+        "text": "программер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "0c9fc995-95dc-4cc0-b5d9-1ca2bc066949",
     "data": [
       {
         "text": "автоматизация",
@@ -93,6 +81,102 @@
     ],
     "isTemplate": false,
     "count": 1,
-    "updated": 1524151928
+    "updated": 1526498175
+  },
+  {
+    "id": "230b9d54-3227-4cb0-bdf7-9342eefb3d44",
+    "data": [
+      {
+        "text": "тестирование",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1526498175
+  },
+  {
+    "id": "09619731-8d8a-4f6a-969d-771a0677b150",
+    "data": [
+      {
+        "text": "девелопер",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "222061b5-6424-431b-8e12-99e2a6fbf086",
+    "data": [
+      {
+        "text": "Помоги мне с тестированием",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "cc0db3b9-369e-4b34-b0b5-a33cad45be22",
+    "data": [
+      {
+        "text": "тестировщик",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 1526498175
+  },
+  {
+    "id": "fcd76be0-59dc-4e50-9776-5236f1b1bce6",
+    "data": [
+      {
+        "text": "Automation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "fff54817-a49e-447a-93e0-aea5c83fae3e",
+    "data": [
+      {
+        "text": "QA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "e801d8cc-b397-411d-9668-44355b3abd1f",
+    "data": [
+      {
+        "text": "Кто такой QA?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
+  },
+  {
+    "id": "89715ee8-28fe-4ae3-a3b7-bb41a43c65af",
+    "data": [
+      {
+        "text": "айти",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1526498175
   }
 ]

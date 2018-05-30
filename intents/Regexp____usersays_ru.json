@@ -1,0 +1,14 @@
+[
+  {
+    "id": "a6528e2d-ec1c-43b0-9d71-5de2043300ed",
+    "data": [
+      {
+        "text": "/[0-9]/g",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1527107304
+  }
+]
